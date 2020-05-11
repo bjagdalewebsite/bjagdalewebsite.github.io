@@ -16,7 +16,7 @@ a {
   top: 3vh;
   right: 2vw;
   border-radius: 50%;
-  opacity: 0.7;
+  opacity: 0.4;
 }
 
 @media (max-width: 768px) {
@@ -403,7 +403,9 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
-
+.about {
+  padding-bottom: 0;
+}
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
